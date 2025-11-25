@@ -1,5 +1,21 @@
 # 💫 About Me:
-A Food E-Commerce Website with a clean UI, quick ordering, and a modern full-stack setup.<br>Full-stack projects using React, Node.js, Express, MongoDB, React, or Python.<br>Backend optimization and scalable API design.<br>DSA with Python and advanced backend concepts.<br>Web development, REST APIs, JavaScript, Python, and backend tech.<br>I turn ideas into projects fast — powered by caffeine!
+## 🔭 I’m currently working on  
+A Food E-Commerce Website with a clean UI and a modern full-stack setup.
+
+## 🤝 I’m looking to collaborate on  
+Full-stack projects using Node.js, Express, MongoDB, React, or Python.
+
+## 💛 I’m looking for help with  
+Backend optimization and scalable APIs.
+
+## 🌱 I’m currently learning  
+DSA with Python and advanced backend concepts.
+
+## 💬 Ask me about  
+Web development, REST APIs, Node.js, Python, and backend tech.
+
+## ⚡ Fun fact  
+I turn ideas into projects fast — powered by caffeine!
 
 
 ## 🌐 Socials:
